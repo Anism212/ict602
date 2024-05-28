@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Button btnCalculate, btnClear; // Added btnClear
     EditText etUnits, etRebate;
     TextView tvResult;
-//commit
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
